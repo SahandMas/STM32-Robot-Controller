@@ -1,0 +1,74 @@
+# ===== STM32 Compiled Files =====
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.a
+*.lib
+*.list
+*.out
+
+# ===== Build Directories =====
+Debug/
+Release/
+build/
+obj/
+*.o.d
+*.su
+
+# ===== STM32CubeIDE =====
+.settings/
+.project
+.cproject
+*.launch
+*.ioc.bak
+*.mxproject
+*.eww
+*.ewp
+*.ewd
+*.uvguix
+*.uvoptx
+*.JLinkLog.txt
+*.scvd
+*.svd
+.metadata/
+.settings/
+
+# ===== STM32 CubeMX Generated (keep .ioc) =====
+Drivers/CMSIS/
+Drivers/STM32F4xx_HAL_Driver/
+Middlewares/
+Examples/
+Documentation/
+
+# ===== Windows =====
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== Visual Studio =====
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.DotSettings
+.vscode/
+*.userosscache
+*.sln.docstates
+
+# ===== .NET =====
+packages/
+*.nupkg
+**/packages/*
+
+# ===== Logs =====
+*.log
+*.tmp
+*.swp
+*~
+
+# ===== IDE =====
+.idea/
+*.iml
