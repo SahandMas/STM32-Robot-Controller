@@ -1,4 +1,4 @@
-#STM32F401RE Robot Controller with Windows Forms UI
+# STM32F401RE Robot Controller with Windows Forms UI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: STM32](https://img.shields.io/badge/Platform-STM32F401RE-blue.svg)](https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html)
