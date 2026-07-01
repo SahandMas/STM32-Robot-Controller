@@ -163,7 +163,6 @@ STM32-Robot-Controller/
 #  Authors
 
 - Sahand Masoudi 
-- Haami Jahanian 
 
 ---
 
